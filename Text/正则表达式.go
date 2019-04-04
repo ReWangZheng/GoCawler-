@@ -1,11 +1,11 @@
-package main
+package Text
 
 import (
 	"regexp"
 	"fmt"
 )
 
-func main(){
+func mains(){
 	text:="my email is 29370330@qq.com " +
 		"" +
 			"51543@163.com " +
